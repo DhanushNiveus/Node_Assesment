@@ -34,6 +34,7 @@ STEP 4: Create a file using fs module and async/await.
 ![alt text](Images/image-1.png)
 
 Run the command node index.js
+
 ![alt text](Images/image-2.png)
 
 STEP 5: Commit the code again.
